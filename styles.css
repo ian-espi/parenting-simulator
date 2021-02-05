@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.logo {
+    width: 10%;
+}
+.site-header {
+    margin-bottom: 20px;
+}
+.hero {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+.hero-image {
+    width: 100%;
+    height: auto;
+}
+.hero-text {
+    background-color: #fc1369;
+    position: absolute;
+    bottom: 20%;
+    right: 0;
+    font-size: 20px;
+    padding: 20px 10% 20px 20px;
+    color: #ffffff;
+}
+.columns {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    margin: 5%;
+    border: 1px solid #fc1369
+}
+.pink-box {
+    padding: 10% 24% 10% 10%;
+    background-color: #fc1369;
+    font-size: 16px;
+    color: #ffffff;
+}
+.title {
+    font-size: 24px;
+    font-color: #fc1369;
+}
+.html, .css {
+    padding: 10%;
+}
+
+.site-footer {
+    padding: 20px 5%;
+    font-size: 12px;
+    background-color: #eeeeee;
+}

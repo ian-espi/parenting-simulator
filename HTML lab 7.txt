@@ -1,0 +1,38 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>COSW20</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">        
+</head>
+
+<body>
+    <header class="site-header">
+    <img class="logo" src="http://mauricengo.com/cosw20/coding-a-mock/COSW20-logo.svg" alt="COSW 20 Logo"/>
+    </header>
+
+<main>
+    <div class="hero">
+    <img class="hero-image" src="http://mauricengo.com/cosw20/coding-a-mock/hero.jpg" alt="Laptop and a Pen">
+    <div class="hero-text">Front End Development</div>
+    </div>
+
+    <div class="columns">
+    <div class="pink-box">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+    
+    <div class="html"></div>
+    <div class="title">HTML</div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
+    <div class="css"></div> 
+    </div>
+</main>
+
+<footer class="site-footer">&copy; 2019 COSW20</footer>
+
+</body>
+
+</html>
